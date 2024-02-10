@@ -1,1 +1,2 @@
-print('fuck')
+print('flick')
+print('new balance')
