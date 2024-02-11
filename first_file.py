@@ -1,2 +1,5 @@
 print('flick')
 print('new balance')
+print('new balance')
+print('new balance')
+print('new balance')
